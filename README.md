@@ -1,5 +1,3 @@
-
-
 # 🤖 KBAgenT Studio
 
 **AI-Powered News Video Automation Platform**
@@ -8,7 +6,6 @@ Generate complete YouTube news videos — script, voice, images, music, upload �
 
 [![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue.svg)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange.svg)](https://mysql.com)
-[![License](https://img.shields.io/badge/License-Commercial-red.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0-green.svg)](https://github.com/yourname/kbagent)
 [![Made in Bangladesh](https://img.shields.io/badge/Made%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-006a4e.svg)]()
 
@@ -135,8 +132,8 @@ define('APP_KEY', 'base64:YOUR_GENERATED_KEY_HERE');
 
 ### 4. Visit `index.php`
 Tables are auto-created. Login with:
-- **Username:** `admin`
-- **Password:** `admin123`
+- **Username:** `◉⁠‿⁠◉`
+- **Password:** `(⁠θ⁠‿⁠θ⁠)`
 
 ⚠️ **Change the password immediately from Settings.**
 
@@ -308,32 +305,11 @@ YouTube Data API gives 10,000 units/day per project. **Each upload costs 1,600 u
 
 ---
 
-## 💼 License
-
-**Commercial License** — see [LICENSE](LICENSE) for details.
-
-| Tier | Price | Usage |
-|------|-------|-------|
-| Personal | ৳3,900 | 1 domain, own channel |
-| Commercial | ৳7,900 | 1 domain, client projects |
-| Agency | ৳14,900 | Unlimited domains, resale rights |
-
-- ✅ Use on your own servers
-- ✅ Modify for personal use
-- ✅ Sell services using this tool
-- ❌ Redistribute source code
-- ❌ Resell as a SaaS (without agency license)
-- ❌ Remove copyright notices
-
----
-
 ## 📞 Support
 
-- 📧 Email: [your-email@example.com]
-- 💬 Facebook: [@yourhandle](https://facebook.com/yourhandle)
-- 💬 WhatsApp: [+880-XXXX-XXXXXX]
-- 🎬 Demo video: [YouTube link]
-- 🌐 Live demo: [demo link]
+- 📧 Email: [businessxinfo1@gmail.com](mailto:businessxinfo1@gmail.com)
+- 🌐 Live demo: https://khokon-chandra.freedev.app
+  - **Admin password:** `contact email`
 
 **Included support:** 30 days of bug fixes and setup help.
 
@@ -367,3 +343,4 @@ If this project helped you build something, please:
 
 [⬆ Back to top](#-kbagent-studio)
 
+</div>
